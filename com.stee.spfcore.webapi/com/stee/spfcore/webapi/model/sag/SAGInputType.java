@@ -1,0 +1,13 @@
+package com.stee.spfcore.webapi.model.sag;
+
+public enum SAGInputType {
+
+	HIGHEST_EDU_LEVEL,
+	NEW_EDU_LEVEL,
+	CURRENT_SCHOOL_INST,
+	DOC_TYPE,
+	ACADEMIC_RESULT_SUBJECT,
+	ACADEMIC_RESULT_GRADE,
+	ACADEMIC_RESULT_SUBJECT_CATEGORY
+}
+
